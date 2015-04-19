@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 <H2>Reproducible Research - Project 1</H1>
 <p><b>Tracy Wilson</b></br>
 Saturday, April 18, 2015</p>
